@@ -122,7 +122,7 @@ def calculator_switch():
                 print(Midpoint(x1, y1, x2, y2))
         
             case "STOP": 
-                print("STOPING PROGRAM")
+                print("STOPPING PROGRAM")
                 break
             
             case _:
